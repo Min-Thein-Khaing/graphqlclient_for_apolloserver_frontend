@@ -1,0 +1,3 @@
+npm create vite@latest apolloclient -- --template react-ts
+npm install graphql @apollo/client
+npm install -D @graphql-codegen/cli @graphql-codegen/client-preset @graphql-codegen/typescript @graphql-codegen/typescript-operations
